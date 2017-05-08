@@ -17,7 +17,7 @@ It parses wikipedia-like xml snapshots and extracts some information:
 ## How do I install it?
 Use `make`.
 
-## How do I run it?
+## How do I use it?
 To run it simply do:
 ```
 $ ./program path_to_snap/mySnapshot1 path_to_Nsnap/mySnapshotN
