@@ -34,3 +34,5 @@ Thank you:
 [Gil Cunha](https://github.com/Nexturn)
 
 [Nuno Faria](https://github.com/nuno-faria)
+
+[Tânia Silva](https://github.com/p3rsephone)
