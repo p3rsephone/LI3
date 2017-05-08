@@ -28,7 +28,9 @@ If you want to see the information one query at a time you might want to try the
 $ ./program -i path_to_snap/mySnapshot1 path_to_Nsnap/mySnapshotN
 ```
 
-##Contributors
+## Contributors
 Thank you:
+
 [Gil Cunha] (https://github.com/Nexturn)
+
 [Nuno Faria] (https://github.com/nuno-faria)
