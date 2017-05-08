@@ -29,5 +29,6 @@ $ ./program -i path_to_snap/mySnapshot1 path_to_Nsnap/mySnapshotN
 ```
 
 ##Contributors
+Thank you:
 [Gil Cunha] (https://github.com/Nexturn)
 [Nuno Faria] (https://github.com/nuno-faria)
