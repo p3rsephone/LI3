@@ -1,5 +1,5 @@
 # LI3
-University project for LI3.
+University project for LI3 in C and Java.
 
 ## What is it about?
 It parses wikipedia-like xml snapshots and extracts some information:
