@@ -1,0 +1,12 @@
+engine/Structure.class
+engine/ContributorComparator.class
+engine/LengthText.class
+common/MyLog.class
+engine/Article.class
+engine/Contributor.class
+engine/Revision.class
+li3/Interface.class
+engine/QueryEngineImpl.class
+engine/ArticleCharsComparator.class
+li3/Main.class
+engine/ArticleWordsComparator.class
